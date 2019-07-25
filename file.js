@@ -1,9 +1,2 @@
 console.log("Hellow World");
-console.log("Hellow World");
-console.log("Hellow World");
-console.log("Hellow World");
-console.log("Hellow World");
-console.log("Hellow World");
-console.log("Hellow World");
-console.log("Hellow World");
-console.log("Hellow World123");
+console.log(5+6);
