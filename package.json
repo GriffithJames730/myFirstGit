@@ -1,0 +1,19 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "description": "nothing",
+  "main": "file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GriffithJames730/myFirstGit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GriffithJames730/myFirstGit/issues"
+  },
+  "homepage": "https://github.com/GriffithJames730/myFirstGit#readme"
+}
